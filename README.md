@@ -11,3 +11,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 2:</h1>
 <br>
 <h3>Whole document is now 772 words, started the analysis and now I am on (well, basically finished the first reason), the first reason!</h3>
+
+<h1>Hour 3:</h1>
+<br>
+<h3>I Finished Reason 2, emotional response and reason 3, nostalgia, whole document on about 1433 words!</h3>
