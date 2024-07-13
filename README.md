@@ -24,4 +24,6 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 5:</h1>
 <br>
 <h3>Finished reasons for watching cartoons, started on the analysis of a song in a cartoon, it has to be brief or it will take too long. Total words: 3241!</h3>
-
+<h1>Hour 6:</h1>
+<br>
+<h3>Finished last reason! Finished recommendations as well and started on the conclusion! Total words: 4023!</h3>
