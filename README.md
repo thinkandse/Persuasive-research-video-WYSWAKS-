@@ -21,7 +21,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <br>
 <h3>Total words: 2413, pages 8. I have wrote reasons 4, 5, and 6, the hour _ progress is the entire script that I have currently that is updated each hour done, you can see all previous hours. Wrote about nostalgia, started on family time, and also finished writing things like being a better person and role models in this hour!</h3>
 
-
-
-
+<h1>Hour 5:</h1>
+<br>
+<h3>Finished reasons for watching cartoons, started on the analysis of a song in a cartoon, it has to be brief or it will take too long. Total words: 3241!</h3>
 
