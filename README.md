@@ -1,5 +1,5 @@
 # Why-you-should-watch-a-Kids-show (persuasive research video for Youtube)
-This is for YouTube Video, my first ever! This will be made in premiere pro with thumbnail still being decided. WYSWAKS stands for Why you should watch a kids show.
+This is for YouTube Video, my first ever! This will be made in premiere pro with thumbnail still being decided. WYSWAKS stands for Why you should watch a kids show. Final Script (with all changes in each hour) is the file that has the final script and is updated every hour, Hour _ progress is where I am up to in the script after each hour, final script lets you see changes if you see history.
 <br>
 <h1>Hour 1:</h1>
 <h3>
