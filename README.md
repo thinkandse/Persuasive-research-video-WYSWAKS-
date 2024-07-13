@@ -1,5 +1,5 @@
-# Why-you-should-watch-a-Kids-show
-This is for YouTube Video, my first ever! This will be made in premiere pro with thumbnail still being decided.
+# Why-you-should-watch-a-Kids-show (persuasive research video for Youtube)
+This is for YouTube Video, my first ever! This will be made in premiere pro with thumbnail still being decided. WYSWAKS stands for Why you should watch a kids show.
 <br>
 <h1>Hour 1:</h1>
 <h3>
