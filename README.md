@@ -27,3 +27,6 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 6:</h1>
 <br>
 <h3>Finished last reason! Finished recommendations as well and started on the conclusion! Total words: 4023!</h3>
+<h1>Hour 7:</h1>
+<br>
+<h3>Finished the entire script! Total words: 4399 </h3>
