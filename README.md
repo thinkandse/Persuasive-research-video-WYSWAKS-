@@ -30,3 +30,6 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 7:</h1>
 <br>
 <h3>Finished the entire script! Total words: 4399 </h3>
+<h1>Hour 8:</h1>
+<br>
+<h3>Started working on the thumbnail, found 2 images and put them in phoshop, had to add blur to the background of 1 image and them made the middle look more clean, started on colour correction but not yet finished.</h3>
