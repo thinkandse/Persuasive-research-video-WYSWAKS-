@@ -36,3 +36,6 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 9:</h1>
 <br>
 <h3>Long hour. But I added a glow effect around 3 subjects, the fate fairy, protagonist on the left, and 1 ofther subject on the right, continuing adding glow effect next few hours!</h3>
+<h1>Hour 10:</h1>
+<br>
+<h3>Made glow for all subjects, added colour correction, text needed lastly!</h3>
