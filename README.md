@@ -32,7 +32,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h3>Finished the entire script! Total words: 4399 </h3>
 <h1>Hour 8:</h1>
 <br>
-<h3>Started working on the thumbnail, found 2 images and put them in phoshop, had to add blur to the background of 1 image and them made the middle look more clean, started on colour correction but not yet finished.</h3>
+<h3>Started working on the thumbnail, found 2 images and put them in photoshop, had to add blur to the background of 1 image and them made the middle look more clean, started on colour correction but not yet finished.</h3>
 <h1>Hour 9:</h1>
 <br>
 <h3>Long hour. But I added a glow effect around 3 subjects, the fate fairy, protagonist on the left, and 1 ofther subject on the right, continuing adding glow effect next few hours!</h3>
@@ -42,3 +42,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 11:</h1>
 <br>
 <h3>This thumbnail added text and fixed colour correction, old one was too saturated, and has too many purple hues, orange hues became lighter and red hues also became lighter, those were the complexion/skin colour of some characters and they were too saturated! Video Editing is ready now!</h3>
+
+<h1>Hour 12:</h1>
+<br>
+<h3>This hour I fixed an annoying download issue with 4K Video Downloader+, it took me a few steps before deciding to reinstall it, then I found clips of cartoons and downloaded them, basically ready for editing now! </h3>
