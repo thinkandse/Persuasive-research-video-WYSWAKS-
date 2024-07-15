@@ -39,3 +39,6 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 10:</h1>
 <br>
 <h3>Made glow for all subjects, added colour correction, text needed lastly!</h3>
+<h1>Hour 11:</h1>
+<br>
+<h3>This thumbnail added text and fixed colour correction, old one was too saturated, and has too many purple hues, orange hues became lighter and red hues also became lighter, those were the complexion/skin colour of some characters and they were too saturated! Video Editing is ready now!</h3>
