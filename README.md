@@ -46,3 +46,5 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 12:</h1>
 <br>
 <h3>This hour I fixed an annoying download issue with 4K Video Downloader+, it took me a few steps before deciding to reinstall it, then I found clips of cartoons and downloaded them, basically ready for editing now! </h3>
+
+![image](https://github.com/user-attachments/assets/e4e7085a-c67d-4ade-b9e9-6c9c8ba0923f) (annoying error)
