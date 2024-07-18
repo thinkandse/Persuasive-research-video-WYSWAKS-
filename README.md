@@ -48,3 +48,10 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h3>This hour I fixed an annoying download issue with 4K Video Downloader+, it took me a few steps before deciding to reinstall it, then I found clips of cartoons and downloaded them, basically ready for editing now! </h3>
 
 ![image](https://github.com/user-attachments/assets/e4e7085a-c67d-4ade-b9e9-6c9c8ba0923f) (annoying error)
+
+<h1>Hour 13:</h1>
+<br>
+<h3>Youtube link to video progress: https://youtu.be/46LEqM6edwg
+<br>
+  This hour, I found about 11 clips with about 40 minutes of footage in total, which should be enough for the whole video, I downloaded them and put them into premiere pro, then I started to work on the intro, not finished yet but should be in the next 2 hours!
+</h3>
