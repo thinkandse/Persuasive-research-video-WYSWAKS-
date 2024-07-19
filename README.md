@@ -55,3 +55,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <br>
   This hour, I found about 11 clips with about 40 minutes of footage in total, which should be enough for the whole video, I downloaded them and put them into premiere pro, then I started to work on the intro, not finished yet but should be in the next 2 hours!
 </h3>
+
+<h1>Hour 14:</h1>
+<br>
+<h3>THis hour, I finished the intro, made it look old by adding film grain and crop, and added music!<br>Video:https://youtu.be/Xc1diDZeYVg</h3>
