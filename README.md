@@ -58,4 +58,4 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 
 <h1>Hour 14:</h1>
 <br>
-<h3>THis hour, I finished the intro, made it look old by adding film grain and crop, and added music!<br>Video:https://youtu.be/Xc1diDZeYVg</h3>
+<h3>This hour, I finished the intro, made it look old by adding film grain and crop, and added music!<br>Video:https://youtu.be/Xc1diDZeYVg</h3>
