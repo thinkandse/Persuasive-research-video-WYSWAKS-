@@ -59,3 +59,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 14:</h1>
 <br>
 <h3>This hour, I finished the intro, made it look old by adding film grain and crop, and added music!<br>Video:https://youtu.be/Xc1diDZeYVg</h3>
+
+<h1>Hour 15:</h1>
+<br>
+<h3>This hour, I added a title text and animated it, I also polished the introduction and fully finished the introduction, ready for voice recording now! https://youtu.be/h07nmyXlRmk</h3>
