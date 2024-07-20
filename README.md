@@ -62,4 +62,11 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 
 <h1>Hour 15:</h1>
 <br>
-<h3>This hour, I added a title text and animated it, I also polished the introduction and fully finished the introduction, ready for voice recording now! https://youtu.be/h07nmyXlRmk</h3>
+<h3>This hour, I added a title text and animated it, I also polished the introduction and fully finished the introduction, ready for voice recording now!<br> Video : https://youtu.be/h07nmyXlRmk</h3>
+
+<h1>Hour 16:</h1>
+<br>
+<h3>In this hour, I made the background clips for voice recording that will happen in the next hour or so, I also added some new clips of cartoons, and reused old ones from the intro, added music as well! 
+  <br>
+ Video: https://youtu.be/45O16DuC-PE
+</h3>
