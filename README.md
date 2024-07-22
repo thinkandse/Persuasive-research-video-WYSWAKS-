@@ -80,3 +80,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 19:</h1>
 <br>
 <h3>This hour, I recorded more of the script as well as continue video. <br> Video: https://youtu.be/JudK3sMywxc</h3>
+
+<h1>Hour 20:</h1>
+<br>
+<h3>In this hour, I recorded 1 more section and added clips over all the previous recordings, downloaded some more clips too! <br> Video: https://youtu.be/nzk_eJJk6Xc </h3>
