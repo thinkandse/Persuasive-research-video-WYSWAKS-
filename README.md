@@ -76,3 +76,7 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h1>Hour 18:</h1>
 <br>
 <h3>This hour, I recorded some parts of the script, as well as created 2 new title animations! <br> Video: https://youtu.be/Q6rkV92dXDs</h3>
+
+<h1>Hour 19:</h1>
+<br>
+<h3>This hour, I recorded more of the script as well as continue video. <br> Video: https://youtu.be/JudK3sMywxc</h3>
