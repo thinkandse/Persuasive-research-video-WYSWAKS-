@@ -89,3 +89,8 @@ This is for YouTube Video, my first ever! This will be made in premiere pro with
 <h3>This hour, I recorded another section while putting clips over more voice overs!
 <br>
 Video: https://youtu.be/yWvKvfi9dfA?si=MAN3DXcY2cAFknIq</h3>
+
+<h1>Hour 22:</h1>
+<br>
+<h3>In This hour, I made and animated text effect, but I decided to use that one later, so I animated a write on text effect which took much longer than normal effects, fixed some other things and added new clips too. <br>
+Video: https://youtu.be/wUqGdggn1kM</h3>
